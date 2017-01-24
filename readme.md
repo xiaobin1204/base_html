@@ -1,7 +1,5 @@
 # base_html
 
-==========
-
 1. `cd base_html`
 
 2. `npm install` || `yarn install`
